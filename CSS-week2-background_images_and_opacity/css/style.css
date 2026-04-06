@@ -16,7 +16,7 @@ footer{
   /* Resize the background image to cover the entire container */
    background-size: cover;
   
-  opacity: .5;
+  opacity: 1.0;
   
 }
 p{
