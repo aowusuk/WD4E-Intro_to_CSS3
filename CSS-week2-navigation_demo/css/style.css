@@ -8,15 +8,15 @@ nav a {
 }
 
 
-/* ul {
+ul {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-} */
+}
 
-/* li {
+li {
     list-style-type: none;
-} */
+}
 
 /* .current {
   text-transform: uppercase;
