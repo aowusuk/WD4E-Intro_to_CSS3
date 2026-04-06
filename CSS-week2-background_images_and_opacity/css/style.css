@@ -11,10 +11,10 @@ footer{
   background-position: center;
   
   /* Do not repeat the image */
-  /* background-repeat: no-repeat;  */
+   background-repeat: no-repeat; 
    
   /* Resize the background image to cover the entire container */
-  /* background-size: cover; */
+   background-size: cover;
   
   opacity: .5;
   
