@@ -18,8 +18,8 @@ li {
     list-style-type: none;
 }
 
-/* .current {
+.current {
   text-transform: uppercase;
   background-color: lightgray;
   border-bottom: 2px solid black;
-} */
+}
