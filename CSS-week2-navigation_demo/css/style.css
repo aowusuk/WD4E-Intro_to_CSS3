@@ -2,10 +2,10 @@ main {
   min-height: 100px;
 }
 
-/* nav a {
+nav a {
   text-decoration: none;
-  background-color: yellow;
-} */
+  background-color: rgb(249, 196, 248);
+}
 
 
 /* ul {
