@@ -8,7 +8,7 @@ footer{
   height: 200px; /* You must set a specified height */
   
   /* Center the image */
-  /* background-position: center;  */
+  background-position: center;
   
   /* Do not repeat the image */
   /* background-repeat: no-repeat;  */
